@@ -1,0 +1,9 @@
+name = Custom Panel plugin
+description = ""
+core = 7.x
+package = Custom modules
+files[] = custom_panel_plugin.inc
+
+version = "7.x-0.1"
+core = "7.x"
+
